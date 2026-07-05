@@ -1,0 +1,10 @@
+# --- Бэкенд стек ---
+fastapi==0.111.0
+uvicorn==0.30.1
+pydantic==2.7.4
+sqlalchemy==2.0.30
+jinja2==3.1.4
+
+# --- Фронтенд и Сеть ---
+streamlit==1.35.0
+requests==2.32.3
